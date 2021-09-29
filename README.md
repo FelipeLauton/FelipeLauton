@@ -3,7 +3,7 @@
 
 ### :raising_hand_man: Sobre mim :zap::
 
-* :wave: Me chamo **Felipe Lauton**.
+* :wave: Me chamo **Felipe Oliveira Lauton**.
 
 * :pushpin: De São Paulo, Brasil.
 
@@ -31,10 +31,6 @@
 ### :star2: Estatísticas Gerais
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipelauton&hide=stars,issues,prs,contribs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### :chart_with_upwards_trend: Habilidades mais usadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelauton&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
