@@ -1,7 +1,7 @@
 # <div align="center">:wave: **Welcome to my GitHub** :rocket:</div>
 
 
-### :raising_hand_man: Sobre mim :zap::
+### :raising_hand_man: About Me :zap::
 
 * :wave: I'm **Felipe Oliveira Lauton**.
 * :pushpin: From São Paulo, Brazil.
