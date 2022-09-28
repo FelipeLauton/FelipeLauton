@@ -5,8 +5,8 @@
 
 * :wave: I'm **Felipe Oliveira Lauton**.
 * :pushpin: From São Paulo, Brazil.
-* :mortar_board: I'm currently learning everything.
-* :mortar_board: 2022 Gols: Learn more about Java and become a better programmer
+* :mortar_board: I'm currently learning Go.
+* :mortar_board: 2022 Gols: Learn more about Go and become a better programmer
 
 
 ---
