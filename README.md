@@ -3,35 +3,56 @@
 
 ### :raising_hand_man: About Me :zap::
 
-* :wave: I'm **Felipe Oliveira Lauton**.
+* :wave: I'm **Felipe Oliveira Lauton** a software developer.
+* 🔭 I’m currently working on [StefaniniBrazil](https://stefanini.com/pt-br/)
 * :pushpin: From São Paulo, Brazil.
-* :mortar_board: I'm currently learning Go.
-* :mortar_board: 2022 Gols: Learn more about Go and become a better programmer
+* :mortar_board: 2022 Gols: Learn more about Go and become a better developer
+*⚡ Fun fact I love Star Wars
+
+
+---
+
+
+###  Connect with me
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:felipelauton021@gmail.com)](mailto:felipelauton021@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeoliveiralauton/)](https://www.linkedin.com/in/felipeoliveiralauton/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5511985118240)](https://api.whatsapp.com/send?phone=+5511985118240)
 
 
 ---
 
 
 
-### :zap: Languages:
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <a href="https://github.com/FelipeLauton">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FelipeLauton&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
+  </a>
+</p>
 
-![Java](https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=FFFFFF) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?&logo=javascript&logoColor=000000) 
 
-### 📦 Databases:
+---
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=FFFFFF) ![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?&logo=microsoft%20sql%20server&logoColor=FFFFFF) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=postgreSQL&logoColor=FFFFFF)
+
+
+### 🛠 Tech Stack:
+Technologies that I've been learning and I've picked up along my programming journey.
+<p>
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="IBM" src="https://img.shields.io/badge/-IBM-054ADA?style=flat-square&logo=IBM&logoColor=white" />
+</p>
+
 
 ### 🧰 Tools:
 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?&logo=spring&logoColor=FFFFFF) ![EclipseIDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?&logo=eclipse%20IDE&logoColor=FFFFFF) ![NetBeans](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-1B6AC6?&logo=apache%20NetBeans%20IDE&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=visual%20studio%20code&logoColor=FFFFFF) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?&logo=pycharm&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=postman&logoColor=FFFFFF)
-
-### :star2: General Statistics:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipelauton&hide=stars,issues,prs,contribs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
-### :white_check_mark: Connect with me! :speech_balloon:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeoliveiralauton/)](https://www.linkedin.com/in/felipeoliveiralauton/) [![Gmail](https://img.shields.io/badge/-felipelauton021@gmail.com-EA4335?&logo=gmail&logoColor=FFFFFF&link=mailto:felipelauton021@gmail.com)](mailto:felipelauton021@gmail.com)
