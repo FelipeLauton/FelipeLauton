@@ -15,9 +15,8 @@
 
 ###  Connect with me
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:felipelauton021@gmail.com)](mailto:felipelauton021@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=felipelauton021@gmail.com)](https://felipelauton021@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeoliveiralauton/)](https://www.linkedin.com/in/felipeoliveiralauton/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5511985118240)](https://api.whatsapp.com/send?phone=+5511985118240)
 
 
 ---
