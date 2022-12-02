@@ -7,7 +7,7 @@
 * 🔭 I’m currently working on [StefaniniBrazil](https://stefanini.com/pt-br/)
 * :pushpin: From São Paulo, Brazil.
 * :mortar_board: 2022 Gols: Learn more about Go and become a better developer
-*⚡ Fun fact I love Star Wars
+* ⚡ Fun fact I love Star Wars
 
 
 ---
