@@ -6,7 +6,7 @@
 * :wave: I'm **Felipe Oliveira Lauton** a software developer.
 * 🔭 I’m currently working on [StefaniniBrazil](https://stefanini.com/pt-br/)
 * :pushpin: From São Paulo, Brazil.
-* ⚡ Fun fact I love Star Wars
+* ⚡ Working with Golang since 2022
 
 
 ---
