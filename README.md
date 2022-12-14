@@ -24,7 +24,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLautonC&layout=compact&theme=vision-friendly-dark" />
+<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLauton&layout=compact&theme=vision-friendly-dark" />
 <p align="center">
   <a href="https://github.com/FelipeLauton">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FelipeLauton&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
