@@ -24,12 +24,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLauton&layout=compact&theme=algolia&include_all_commits=true&count_private=true"/>
-  <a href="https://github.com/FelipeLauton">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FelipeLauton&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  
-  </a>
+<p align="space-between"> <br>
+    <a href="https://github.com/FelipeLauton">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeLauton&show_icons=true&theme=radical&include_all_commits=true&icon_color=dracula" style="max-width:100%;"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLauton&langs_count=10&layout=compact&theme=radical" style="max-width:1000%;">
+      
 </p>
 
 
