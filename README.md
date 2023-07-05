@@ -4,9 +4,9 @@
 ### :raising_hand_man: About Me :zap::
 
 * :wave: I'm **Felipe Oliveira Lauton** a software developer.
-* 🔭 I’m currently working on [StefaniniBrazil](https://stefanini.com/pt-br/)
+* 🔭 I’m currently working on [Copa Energia](https://www.copaenergia.com.br/)
 * :pushpin: From São Paulo, Brazil.
-* ⚡ Working with Golang since 2022
+* ⚡Coding with Go since 2022
 
 
 ---
